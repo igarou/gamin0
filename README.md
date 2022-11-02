@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gamin0
+- 👋 Hi, I’m @igarou
 - 👀 I’m interested in ...crypto
 - 🌱 I’m currently learning ...bcg
 - 💞️ I’m looking to collaborate on ...
